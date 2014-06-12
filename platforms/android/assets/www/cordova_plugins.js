@@ -20,6 +20,13 @@ module.exports = [
         "clobbers": [
             "device"
         ]
+    },
+    {
+        "file": "plugins/com.phonegap.plugins.streamplayer/www/streamplayer.js",
+        "id": "com.phonegap.plugins.streamplayer.StreamPlayer",
+        "clobbers": [
+            "cordova.plugins.streamPlayer"
+        ]
     }
 ];
 module.exports.metadata = 
@@ -27,7 +34,9 @@ module.exports.metadata =
 {
     "com.phonegap.plugins.PushPlugin": "2.2.0",
     "org.apache.cordova.inappbrowser": "0.4.0",
-    "org.apache.cordova.device": "0.2.9"
+    "org.apache.cordova.device": "0.2.9",
+    "org.apache.cordova.console": "0.2.8",
+    "com.phonegap.plugins.streamplayer": "1.0"
 }
 // BOTTOM OF METADATA
 });

@@ -12,6 +12,13 @@
 /Users/yutin/Web/LiveTW-Android/platforms/android/ant-build/classes/com/plugin/gcm/GCMIntentService.class \
 /Users/yutin/Web/LiveTW-Android/platforms/android/ant-build/classes/com/plugin/gcm/PushHandlerActivity.class \
 /Users/yutin/Web/LiveTW-Android/platforms/android/ant-build/classes/com/plugin/gcm/PushPlugin.class \
+/Users/yutin/Web/LiveTW-Android/platforms/android/ant-build/classes/com/plugin/streamplayer/StreamPlayer$1.class \
+/Users/yutin/Web/LiveTW-Android/platforms/android/ant-build/classes/com/plugin/streamplayer/StreamPlayer$2.class \
+/Users/yutin/Web/LiveTW-Android/platforms/android/ant-build/classes/com/plugin/streamplayer/StreamPlayer$3.class \
+/Users/yutin/Web/LiveTW-Android/platforms/android/ant-build/classes/com/plugin/streamplayer/StreamPlayer$4.class \
+/Users/yutin/Web/LiveTW-Android/platforms/android/ant-build/classes/com/plugin/streamplayer/StreamPlayer$5.class \
+/Users/yutin/Web/LiveTW-Android/platforms/android/ant-build/classes/com/plugin/streamplayer/StreamPlayer$6.class \
+/Users/yutin/Web/LiveTW-Android/platforms/android/ant-build/classes/com/plugin/streamplayer/StreamPlayer.class \
 /Users/yutin/Web/LiveTW-Android/platforms/android/ant-build/classes/org/apache/cordova/device/Device.class \
 /Users/yutin/Web/LiveTW-Android/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$1.class \
 /Users/yutin/Web/LiveTW-Android/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$2.class \
